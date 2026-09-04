@@ -5,7 +5,7 @@ A modular, reproducible Python project for the supplied tweet sentiment assessme
 ## Project layout
 
 ```text
-assessment 7/
+assessment 5/
 ├── app.py                    # Streamlit dashboard
 ├── run_pipeline.py           # Cross-platform training entry point
 ├── requirements.txt
